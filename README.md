@@ -1,5 +1,8 @@
 # Calcurator
 
+配信URL:  
+https://play.google.com/store/apps/details?id=com.dayoapp.Calculator
+
 基本的な四則演算に加えて、%変換、二項以上の連続計算に対応した電卓アプリ。  
 アプリケーションをリリースするまでの流れを体験をする為に作成しました。
 
